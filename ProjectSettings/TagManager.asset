@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lava
+  - SoftenedBlow
+  - ShipWP
+  - Enemy
+  - BatTrigger2
+  - BatTrigger1
+  - BatTrigger6
+  - BatTrigger5
+  - BatTrigger4
+  - BatTrigger3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - PostProcessing
+  - Obstacle
+  - Player
+  - Pickup
+  - Enemy
+  - Lava
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

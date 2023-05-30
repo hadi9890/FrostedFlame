@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19bada8203b61db4cb78c846a6070bec, type: 3}
+  m_Name: DarkScriptableBattery
+  m_EditorClassIdentifier: 
+  batteryName: DarkBattery
+  icon: {fileID: 21300000, guid: 33262d6506d904049befaab106826838, type: 3}
+  prefab: {fileID: 638141985205287323, guid: 16a5a9d61c9558a40ba221c51911522e, type: 3}
+  batType: 3
